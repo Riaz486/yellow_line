@@ -1,0 +1,39 @@
+{
+    "nunito": {
+        "200": "\/home\/skillstechinc\/public_html\/projects\/micamp\/storage\/fonts\/nunito_200_f633e1a77f06e18e7a939ae5594d142d",
+        "300": "\/home\/skillstechinc\/public_html\/projects\/micamp\/storage\/fonts\/nunito_300_e28db753c8a675c61d9890acca19ec15",
+        "normal": "\/home\/skillstechinc\/public_html\/projects\/micamp\/storage\/fonts\/nunito_normal_f8ce9593f0c56e52776379aa29b2d690",
+        "500": "\/home\/skillstechinc\/public_html\/projects\/micamp\/storage\/fonts\/nunito_500_451723395e3197d7dde5899edd37d91e",
+        "600": "\/home\/skillstechinc\/public_html\/projects\/micamp\/storage\/fonts\/nunito_600_0275befc5ca0fc822c590fc63a6c14d5",
+        "bold": "nunito_bold_8dc3583b65bede23262ac4c563179f23"
+    },
+    "iconsmind": {
+        "normal": "iconsmind_normal_ab933ceaf79a67eba61c1e6f9713fbe0"
+    },
+    "poppins": {
+        "300": "\/home\/skillstechinc\/public_html\/projects\/micamp\/storage\/fonts\/poppins_300_1692c239ced41eb9da549dc7c466debd",
+        "normal": "\/home\/skillstechinc\/public_html\/projects\/micamp\/storage\/fonts\/poppins_normal_e475a92394331e7cb66416e99ea77738",
+        "500": "\/home\/skillstechinc\/public_html\/projects\/micamp\/storage\/fonts\/poppins_500_129e3b889febc841da545ff73f0903ef",
+        "600": "\/home\/skillstechinc\/public_html\/projects\/micamp\/storage\/fonts\/poppins_600_67f84de4fda3d452b27a0bda646cdea3",
+        "bold": "poppins_bold_11df45ab5b1d2bb0ec8bcd7f71e0447f"
+    },
+    "simple-line-icons": {
+        "normal": "simple_line_icons_normal_0ba04caaa8be7014d5763187906ad480"
+    },
+    "themify": {
+        "normal": "themify_normal_95a14cd1345f87f792bfa3519b51a85d"
+    },
+    "material design icons": {
+        "normal": "material_design_icons_normal_acaa4ab7ae04cb5b694ac2b4284d8e2e"
+    },
+    "fontawesome": {
+        "normal": "fontawesome_normal_3415f1959120b6f57332247aa3955147"
+    },
+    "font awesome 5 brands": {
+        "normal": "font_awesome_5_brands_normal_6b898e2c5cc213c4404811c323fdcab6"
+    },
+    "font awesome 5 free": {
+        "normal": "\/home\/skillstechinc\/public_html\/projects\/micamp\/storage\/fonts\/font_awesome_5_free_normal_09a636486ad6e3e7e715ee5a0373f2ab",
+        "900": "font_awesome_5_free_900_f6c1d66ca0f6a9c230936770c324b606"
+    }
+}

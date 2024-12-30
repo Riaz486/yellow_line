@@ -1,0 +1,139 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700);
+/*Theme Colors*/
+/**
+ * Table Of Content
+ *
+ * 	1. Color system
+ *	2. Options
+ *	3. Body
+ *	4. Typography
+ *	5. Breadcrumbs
+ *	6. Cards
+ *	7. Dropdowns
+ *	8. Buttons
+ *	9. Typography
+ *	10. Progress bars
+ *	11. Tables
+ *	12. Forms
+ *	14. Component
+ */
+/*******************
+ Campaign
+*******************/
+.campaign {
+  position: relative;
+  height: 250px; }
+  .campaign .ct-series-a .ct-area {
+    fill-opacity: 0.2;
+    fill: url(#gradient); }
+  .campaign .ct-series-a .ct-line, .campaign .ct-series-a .ct-point {
+    stroke: #00c292;
+    stroke-width: 2px; }
+  .campaign .ct-series-b .ct-area {
+    fill: #03a9f3;
+    fill-opacity: 0.1; }
+  .campaign .ct-series-b .ct-line, .campaign .ct-series-b .ct-point {
+    stroke: #03a9f3;
+    stroke-width: 2px; }
+  .campaign .ct-series-a .ct-point, .campaign .ct-series-b .ct-point {
+    stroke-width: 6px; }
+
+/*******************
+ Our income
+*******************/
+.o-income .c3 line, .o-income .c3 path {
+  stroke: #e9ecef; }
+
+.card-bg-green {
+  background-color: #057958 !important;
+}
+
+.hv-100 {
+  height: 100vh;
+}
+
+.smImageHolder {
+  width: 200px;
+}
+
+.smImageHolder > img {
+  width: 100%;
+}
+
+.dsp-block {
+  display: block;
+  width: 100%;
+}
+.text-sm {
+  font-size: 12px;
+}
+.text-gray {
+  color: rgb(156 163 175);
+}
+.mt-2, .my-2 {
+  margin-top: .5rem !important;
+}
+
+.form-check {
+    display: flex;
+    padding-left: 0;
+    margin-bottom: 10px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    position: relative;
+    gap: 0 10px;
+}
+
+
+.smImageHolder2 {
+  width: 150px;
+}
+
+.smImageHolder2 > img {
+  width: 100%;
+}
+
+.gallery-image {
+  padding: 20px;
+  display: flex;
+  align-items: flex-end;
+  gap: 30px;
+  margin-bottom: 25px;
+  background-color: #f6f6f6;
+}
+
+.gallery-image  >.form-group {
+  margin-bottom: 0;
+}
+
+button.btn-delete {
+  width: 40px;
+  height: 40px;
+  border: none;
+  border-radius: 50%;
+  background-color: #cb0404;
+  color: #fff;
+}
+
+.faq-data-wrap {
+  display: flex;
+  align-items: start;
+  flex-wrap: wrap;
+  gap: 20px;
+  background-color: #f6f6f6;
+  padding: 20px;
+}
+
+.faq-data-wrap > .form-group {
+  flex: auto;
+  margin: 0;
+}
+
+@keyframes linear {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

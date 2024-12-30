@@ -1,0 +1,156 @@
+@media (max-width: 1399px) {
+    .header .menu > ul > li > a {
+        padding: 8px 10px;
+    }
+    .heading {
+        font-size: 44px;
+    }
+}
+@media (max-width: 1199px) {
+    .discover-video-section {
+        padding: 60px 0;
+    }
+    .discover-video-section .heading {
+        font-size: 55px;
+    }
+    .discover-video-section .para {
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+    .new-room-section video {
+        height: 380px;
+    }
+    .our-values-section .mobility-card .perc {
+        font-size: 35px;
+    }
+    .whatisbrt {
+        padding: 60px 0;
+    }
+    
+    .blog-section .waveicon {
+        margin: -20px auto 30px;
+    }
+    .section-padding {
+        padding: 50px 0;
+    }
+    .header .menu > ul > li > a {
+        font-size: 12px;
+        padding: 7px;
+    }
+    .header .logo img {
+        width: 120px;
+    }
+    .whatisbrt .whatisbrtbox {
+        height: auto;
+    }
+    .services-section .content-serv {
+        padding: 40px 0;
+    }
+    .news-section .para {
+        font-size: 18px;
+    }
+    .news-section .card-body {
+        padding: 20px 18px;
+    }
+    .news-section .card .content .title {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+    .news-section .card .content .status p {
+        font-size: 12px;
+    }
+    .news-section .cardimg {
+        height: 200px;
+    }
+}
+
+@media (max-width: 991px) {
+    .gallery .gallimg {
+        height: 230px;
+        width: 260px;
+        object-fit: cover;
+    }
+    .our-values-section .mheading {
+        margin-bottom: 10px;
+    }
+    .our-values-section .para {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+    .upcoming-section .content-slide {
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+    
+    .upcoming-section .content-slide .left {
+        min-width: auto;
+        margin: 0;
+        padding: 0;
+    }
+    
+    .upcoming-section .content-slide .left::after {display:none}
+    .btn-group-lg > .btn, .btn-lg {
+        padding: 10px 34px;
+        font-size: 20px;
+    }
+    .services-section .content {
+        margin-bottom: 20px;
+    }
+    .title {
+        font-size: 28px;
+    }
+    .services-section .title {
+        margin-bottom: 18px;
+    }
+    .para {
+        font-size: 22px;
+    }
+    .textupper {
+        font-size: 28px;
+    }
+    .blog-carousel-container .slick-dots {
+        bottom: -30px;
+    }
+    .blog-carousel-container {
+        margin-bottom: 30px;
+    }
+    .hero-section .hero-section-slider .content p {
+        font-size: 16px;
+    }
+    .heading {
+        font-size: 40px;
+    }
+    .mheading {
+        font-size: 30px;
+    }
+    .top-header {
+        display: none;
+    }
+    
+    .header .menu > ul > li {
+        display: none;
+    }
+    
+    .header .menu > ul > li:nth-last-child(2) {
+        display: inline-block;
+    }
+    
+    .header .menu > ul > li:nth-last-child(2) a i {
+        font-size: 26px;
+    }
+    .offcanvas-body {
+        padding: 20px;
+        padding-top: 50px;
+    }
+    .offcanvas.offcanvas-start {
+        width: 320px;
+    }
+}
+
+@media (max-width: 767px) {
+    .upcoming-section .content-slide .right .box {
+        padding: 16px;
+        max-width: 300px;
+    }
+   
+}
